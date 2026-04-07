@@ -1,4 +1,6 @@
 four
 FOUR!
 four 
-for four four four 
+
+for four four
+
